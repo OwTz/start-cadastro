@@ -10,7 +10,7 @@
 
 | Pessoa | Função | tag 
 |-------| ------ | ------|
-| Owtz / [Sérgio](linkedin.com/in/sergiomqs/) | Desenvolvedor | CEO|
+| Owtz / [Sérgio](https://linkedin.com/in/sergiomqs/) | Desenvolvedor | CEO|
 
 -----------
 
