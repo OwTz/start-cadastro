@@ -1,0 +1,27 @@
+
+
+
+nav {
+    background-color: aliceblue;
+    text-justify: justify;
+
+}
+
+.item-menu{
+    font-size: 25px;
+    display: inline;
+    letter-spacing: 2%;
+    word-spacing: 50%;
+}
+
+nav li{
+    display: inline;
+    
+}
+
+nav li a{
+    text-decoration: none;
+}
+@media screen {
+    
+}
